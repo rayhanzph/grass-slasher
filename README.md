@@ -12,11 +12,11 @@ https://dev.to/ivayloiv/install-latest-python-version-on-any-linux-distro-5gc3
 - Go to console (f12), type ```allow pasting``` insert to console
 - Then insert this code to console
 ```localStorage.getItem('userId')```
-![0001](https://github.com/uid.jpg)
+![0001](https://github.com/rayhanzph/grass-slasher/blob/main/uid.png)
 #### Usage command
 - Open file ```proxy_list.txt``` and insert your proxies
 - Run ```python run.py``` and insert your userid
-- <img src="https://github.com/im-hanzou/getgrass_bot/blob/main/run.png" width=500>
+- <img src="https://github.com/rayhanzph/grass-slasher/blob/main/run.png" width=500>
 ### Where i can get proxies?
 #### GO TO THIS REPO ->> https://github.com/monosans/proxy-scraper-checker
 <!-- TEST ONLY
